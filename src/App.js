@@ -6,7 +6,7 @@ class Hello extends Component{
   render() {
     return (
       <div style={{ textAlign: "center" }}>
-          <h1>Hello , {this.props.name || "Andrea" }!</h1>
+          <h1>Hellooooooooo {this.props.name || "Andrea" }!</h1>
       </div>
     );
   }
